@@ -4,6 +4,8 @@
 
 `html-excerpt-extractor` is a handy npm package that allows for extracting excerpts from HTML content. This tool can be very useful for generating content previews or search result snippets where only a portion of the HTML content is displayed.
 
+Based on the excellent package [html-parser.ts](https://www.npmjs.com/package/html-parser.ts), this package extracts text content from HTML and trims it to a specified length. The package also provides options for customizing the excerpt length.
+
 ## Installation
 
 Install the package using your favorite package manager:
