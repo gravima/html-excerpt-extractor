@@ -18,11 +18,12 @@
     "utility"
   ],
   "author": "gravima",
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/gravima/html-excerpt-extractor"
   },
+  "homepage": "https://www.gravima.de/en?utm_source=npm&utm_medium=html-excerpt-extractor&utm_campaign=html-excerpt-extractor",
+  "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
