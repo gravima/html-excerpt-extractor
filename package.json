@@ -11,9 +11,18 @@
     "lint": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "html",
+    "excerpt",
+    "extractor",
+    "utility"
+  ],
   "author": "gravima",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gravima/html-excerpt-extractor"
+  },
   "publishConfig": {
     "access": "public"
   },
