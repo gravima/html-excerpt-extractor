@@ -1,6 +1,6 @@
 {
   "name": "html-excerpt-extractor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Small utility function that extracts an excerpt from an HTML string",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
